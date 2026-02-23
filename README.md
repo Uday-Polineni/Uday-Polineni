@@ -25,9 +25,7 @@ focused on real-world reliability, event-driven systems, and performance.
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Uday-Polineni&style=for-the-badge&color=0e75b6" alt="profile views"/>
+<br/>
 
 </div>
 
