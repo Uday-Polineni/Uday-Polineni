@@ -42,86 +42,112 @@ focused on real-world reliability, event-driven systems, and performance.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-### 🧑‍💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=yellow)
-![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=oracle&logoColor=orange)
-![C%23](https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=purple)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Go](https://img.shields.io/badge/Go-111111?style=for-the-badge&logo=go&logoColor=00ADD8)
-
-### ⚙️ Backend Systems
-![REST API](https://img.shields.io/badge/REST%20APIs-111111?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-111111?style=for-the-badge)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-111111?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Async Systems](https://img.shields.io/badge/Async-111111?style=for-the-badge)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=47A248)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-111111?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
-![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-111111?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
-![Terraform](https://img.shields.io/badge/Terraform-111111?style=for-the-badge&logo=terraform&logoColor=7B42BC)
-![Jenkins](https://img.shields.io/badge/Jenkins-111111?style=for-the-badge&logo=jenkins&logoColor=D24939)
+### 👨‍💻 Programming Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32"/> Python &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32"/> Java &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="32"/> C# &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32"/> JavaScript &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="32"/> Go
+</p>
 
 ---
 
-## ⭐ Featured Projects
+### ⚙️ Backend Systems
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="32"/> FastAPI &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="32"/> Spring Boot &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="32"/> Apache Kafka
+</p>
 
-Here are a few repositories I’m proud of — pin them to your profile!
+---
 
-| Project | Description |
-|---------|-------------|
-| 🚕 **Distributed Ride Matching** | Backend + async workflows + concurrency |
-| 📈 **Stock Market Pipeline** | Kafka producers/consumers with retries & performance |
-| 🧪 **Network Tooling Projects** | Packet inspection & custom traffic tooling |
+### 🗄️ Databases
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32"/> PostgreSQL &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32"/> MySQL &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32"/> MongoDB &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="32"/> Redis
+</p>
 
-_(Add direct links to these repos below!)_
+---
+
+### ☁️ Cloud Platforms
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="32"/> AWS &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="32"/> Microsoft Azure
+</p>
+
+---
+
+### 🚀 DevOps & Platform Engineering
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32"/> Docker &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="32"/> Kubernetes &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="32"/> Terraform &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="32"/> Jenkins &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32"/> Git
+</p>
+
+---
+
+### 📊 Observability & Reliability
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="32"/> Prometheus &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="32"/> Grafana
+</p>
+
+---
+
+### 🧩 Others
+REST APIs • Microservices • Event-Driven Architecture • Asynchronous Processing
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- 1) All-in-one "dashboard" style cards (very close to your screenshot) -->
+<p align="center">
+  <img width="900" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Uday-Polineni&theme=github_dark" />
+</p>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Uday-Polineni&show_icons=true&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uday-Polineni&layout=compact&hide_border=true" />
+<p align="center">
+  <img width="445" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Uday-Polineni&theme=github_dark" />
+  <img width="445" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Uday-Polineni&theme=github_dark&utcOffset=-5" />
+</p>
 
-<br/>
+<p align="center">
+  <img width="445" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Uday-Polineni&theme=github_dark" />
+  <img width="445" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Uday-Polineni&theme=github_dark" />
+</p>
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Uday-Polineni&hide_border=true" />
+<!-- 2) Contribution graph (optional, matches the "activity graph" vibe) -->
+<p align="center">
+  <img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=Uday-Polineni&theme=github-compact&hide_border=true" />
+</p>
 
-</div>
+<!-- 3) Streak (optional) -->
+<p align="center">
+  <img width="900" src="https://streak-stats.demolab.com?user=Uday-Polineni&theme=github-dark-blue&hide_border=true" />
+</p>
 
 ---
 
 ## 🧩 LeetCode Performance
 
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/u/pudaykiran209?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
-
-</div>
-
----
-
-## ✍️ Writing & Notes (Optional)
-- 📌 System Design Notes: `Link to notes`
-- 📌 Distributed Systems Patterns: `Link to notes`
-- 📌 Interview snippets / DSA explanations: `Link to notes`
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/pudaykiran209?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
+</p>
 
 ---
 
 ## 💬 Quote I Live By
 
-> “Programming is similar to a game of golf. The point is not getting the ball in the hole  
-> but how many strokes it takes.” — *Harlan Mills*
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
 
 ---
 
