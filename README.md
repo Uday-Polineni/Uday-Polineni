@@ -102,8 +102,8 @@ REST APIs • Microservices • Event-Driven Architecture • Asynchronous Proce
 </p>
 
 <p align="center">
-  <img width="430" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Uday-Polineni&theme=github_dark" />
-  <img width="430" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Uday-Polineni&theme=github_dark&utcOffset=-5" />
+  <img width="380" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Uday-Polineni&theme=github_dark" />
+  <img width="380" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Uday-Polineni&theme=github_dark&utcOffset=-5" />
 </p>
 
 <p align="center">
