@@ -53,8 +53,6 @@ focused on real-world reliability, event-driven systems, and performance.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="32"/> Go
 </p>
 
----
-
 ### ⚙️ Backend Systems
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="32"/> FastAPI &nbsp;&nbsp;
@@ -62,7 +60,6 @@ focused on real-world reliability, event-driven systems, and performance.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="32"/> Apache Kafka
 </p>
 
----
 
 ### 🗄️ Databases
 <p>
@@ -72,15 +69,12 @@ focused on real-world reliability, event-driven systems, and performance.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="32"/> Redis
 </p>
 
----
 
 ### ☁️ Cloud Platforms
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="32"/> AWS &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="32"/> Microsoft Azure
 </p>
-
----
 
 ### 🚀 DevOps & Platform Engineering
 <p>
@@ -91,15 +85,11 @@ focused on real-world reliability, event-driven systems, and performance.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32"/> Git
 </p>
 
----
-
 ### 📊 Observability & Reliability
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="32"/> Prometheus &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="32"/> Grafana
 </p>
-
----
 
 ### 🧩 Others
 REST APIs • Microservices • Event-Driven Architecture • Asynchronous Processing
@@ -114,13 +104,13 @@ REST APIs • Microservices • Event-Driven Architecture • Asynchronous Proce
 </p>
 
 <p align="center">
-  <img width="445" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Uday-Polineni&theme=github_dark" />
-  <img width="445" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Uday-Polineni&theme=github_dark&utcOffset=-5" />
+  <img width="430" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Uday-Polineni&theme=github_dark" />
+  <img width="430" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Uday-Polineni&theme=github_dark&utcOffset=-5" />
 </p>
 
 <p align="center">
-  <img width="445" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Uday-Polineni&theme=github_dark" />
-  <img width="445" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Uday-Polineni&theme=github_dark" />
+  <img width="430" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Uday-Polineni&theme=github_dark" />
+  <img width="430" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Uday-Polineni&theme=github_dark" />
 </p>
 
 <!-- 2) Contribution graph (optional, matches the "activity graph" vibe) -->
