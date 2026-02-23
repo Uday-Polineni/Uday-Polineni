@@ -102,23 +102,20 @@ REST APIs • Microservices • Event-Driven Architecture • Asynchronous Proce
 </p>
 
 <p align="center">
-  <img width="380" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Uday-Polineni&theme=github_dark" />
-  <img width="380" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Uday-Polineni&theme=github_dark&utcOffset=-5" />
+  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Uday-Polineni&theme=github_dark" />
+  <img width="400" src="https://streak-stats.demolab.com?user=Uday-Polineni&theme=github-dark-blue&hide_border=true" />
 </p>
 
-<p align="center">
-  <img width="430" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Uday-Polineni&theme=github_dark" />
-  <img width="430" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Uday-Polineni&theme=github_dark" />
-</p>
+<!--<p align="center">
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Uday-Polineni&layout=compact&theme=github_dark&hide_border=true"
+    alt="Top Languages"
+  />
+</p>-->
 
 <!-- 2) Contribution graph (optional, matches the "activity graph" vibe) -->
 <p align="center">
   <img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=Uday-Polineni&theme=github-compact&hide_border=true" />
-</p>
-
-<!-- 3) Streak (optional) -->
-<p align="center">
-  <img width="900" src="https://streak-stats.demolab.com?user=Uday-Polineni&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
