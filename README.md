@@ -36,7 +36,6 @@ focused on real-world reliability, event-driven systems, and performance.
 - 🚀 SWE experience building backend services and distributed systems
 - ☁️ Event-driven architecture using Kafka and cloud platforms
 - 🧠 Passionate about scalable systems, reliability, and performance
-- 🧩 Actively applying / interviewing for Backend & Platform roles
 
 ---
 
