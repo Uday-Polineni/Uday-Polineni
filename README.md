@@ -5,17 +5,17 @@
 <div align="center">
 
 # 👋 Hi, I’m **Uday Kiran Polineni**
-### Software Engineer | Distributed Systems | Backend & Cloud
+### Software Engineer · Distributed Systems · Backend & Cloud
 
-I build highly scalable distributed services and backend infrastructure  
-focused on real-world reliability, event-driven systems, and performance.
+I build scalable backend services, event-driven systems, and production infrastructure  
+focused on reliability, performance, and clean API design.
 
 <br/>
 
 <a href="https://www.linkedin.com/in/uday-polineni/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:udayk.polineni@gmail.com">
+<a href="mailto:udaypolinenik@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/Uday-Polineni/" target="_blank">
@@ -32,10 +32,21 @@ focused on real-world reliability, event-driven systems, and performance.
 ---
 
 ## 🚀 About Me
-- 🎓 Master’s in Computer Science (Florida Institute of Technology)
-- 🚀 SWE experience building backend services and distributed systems
-- ☁️ Event-driven architecture using Kafka and cloud platforms
-- 🧠 Passionate about scalable systems, reliability, and performance
+
+- 🎓 **M.S. Computer Science**, Florida Institute of Technology · GPA **3.7/4.0** (Dec 2025)
+- 💼 **Software Engineer @ Saayam** · previously **Ramco Systems** (aircraft maintenance / MRO backend)
+- ⚙️ **Python · FastAPI · Kafka · AWS** microservices, plus **.NET & SQL Server** at enterprise scale
+- 🤖 **RAG & LLM tooling** — multi-tenant knowledge platforms, grading automation, live AWS demos
+
+---
+
+## 🏗️ Featured Projects
+
+| Project | Stack | Links |
+|---------|-------|-------|
+| **Enterprise Knowledge Assistant** | FastAPI, PostgreSQL, Redis, RAG, React | [Live Demo](http://ec2-3-141-104-224.us-east-2.compute.amazonaws.com/login) · [GitHub](https://github.com/Uday-Polineni/Multi-Tenant-Enterprise-Knowledge-Platform-RAG-) |
+| **Scalable URL Shortener** | Java, Spring Boot, PostgreSQL, Redis, Docker | [Live Demo](http://ec2-52-15-177-183.us-east-2.compute.amazonaws.com/login) · [GitHub](https://github.com/Uday-Polineni/scalable-url-shortener) |
+| **Stock Market Kafka Pipeline** | Python, Kafka | [GitHub](https://github.com/Uday-Polineni/Stock_Market_Kafka_Project) |
 
 ---
 
@@ -46,56 +57,40 @@ focused on real-world reliability, event-driven systems, and performance.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32"/> Python &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32"/> Java &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="32"/> C# &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32"/> JavaScript &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="32"/> Go
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32"/> JavaScript
 </p>
 
-### ⚙️ Backend Systems
+### ⚙️ Backend & Frameworks
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="32"/> FastAPI &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="32"/> Spring Boot &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="32"/> .NET &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="32"/> Apache Kafka
 </p>
-
 
 ### 🗄️ Databases
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32"/> PostgreSQL &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32"/> MySQL &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32"/> MongoDB &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="32"/> SQL Server &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="32"/> Redis
 </p>
 
-
-### ☁️ Cloud Platforms
+### ☁️ Cloud, Frontend & DevOps
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="32"/> AWS &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="32"/> Microsoft Azure
-</p>
-
-### 🚀 DevOps & Platform Engineering
-<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="32"/> AWS &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32"/> React &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32"/> Docker &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="32"/> Kubernetes &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="32"/> Terraform &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="32"/> Jenkins &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32"/> Git
 </p>
 
-### 📊 Observability & Reliability
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="32"/> Prometheus &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="32"/> Grafana
-</p>
-
-### 🧩 Others
-REST APIs • Microservices • Event-Driven Architecture • Asynchronous Processing
+### 🤖 AI & Concepts
+**RAG** · **LLM APIs** · **pytest** · Alembic · Flyway · REST APIs · Microservices · System Design
 
 ---
 
 ## 📊 GitHub Stats
 
-<!-- 1) All-in-one "dashboard" style cards (very close to your screenshot) -->
 <p align="center">
   <img width="900" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Uday-Polineni&theme=github_dark" />
 </p>
@@ -105,14 +100,6 @@ REST APIs • Microservices • Event-Driven Architecture • Asynchronous Proce
   <img width="400" src="https://streak-stats.demolab.com?user=Uday-Polineni&theme=github-dark-blue&hide_border=true" />
 </p>
 
-<!--<p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Uday-Polineni&layout=compact&theme=github_dark&hide_border=true"
-    alt="Top Languages"
-  />
-</p>-->
-
-<!-- 2) Contribution graph (optional, matches the "activity graph" vibe) -->
 <p align="center">
   <img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=Uday-Polineni&theme=github-compact&hide_border=true" />
 </p>
@@ -122,7 +109,16 @@ REST APIs • Microservices • Event-Driven Architecture • Asynchronous Proce
 ## 🧩 LeetCode Performance
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/pudaykiran209?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
+  <a href="https://leetcode.com/u/pudaykiran209/" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://leetcard.jacoblin.cool/pudaykiran209?theme=dark&font=Karma&ext=heatmap"
+      alt="LeetCode Stats — click to view profile"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/pudaykiran209/" target="_blank"><strong>leetcode.com/u/pudaykiran209</strong></a>
 </p>
 
 ---
@@ -137,9 +133,9 @@ REST APIs • Microservices • Event-Driven Architecture • Asynchronous Proce
 
 ## 🤝 Let’s Connect
 
-I’m always open to collaboration, feedback, and opportunities.
+Open to collaboration, feedback, and opportunities.
 
-📧 **udayk.polineni@gmail.com**  
-🔗 LinkedIn: https://www.linkedin.com/in/uday-polineni/
+📧 **udaypolinenik@gmail.com**  
+🔗 **LinkedIn:** https://www.linkedin.com/in/uday-polineni/
 
 ---
