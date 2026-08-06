@@ -5,10 +5,10 @@
 <div align="center">
 
 # 👋 Hi, I’m **Uday Kiran Polineni**
-### Software Engineer · Distributed Systems · Backend & Cloud
+### Software Engineer · Python · C++ · Distributed Systems & Database Internals
 
-I build scalable backend services, event-driven systems, and production infrastructure  
-focused on reliability, performance, and clean API design.
+I build high-performance backend systems and storage-aware services  
+focused on reliability, concurrency, and production observability.
 
 <br/>
 
@@ -20,6 +20,9 @@ focused on reliability, performance, and clean API design.
 </a>
 <a href="https://github.com/Uday-Polineni/" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://uday-polineni-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://leetcode.com/u/pudaykiran209/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
@@ -34,9 +37,9 @@ focused on reliability, performance, and clean API design.
 ## 🚀 About Me
 
 - 🎓 **M.S. Computer Science**, Florida Institute of Technology · GPA **3.7/4.0** (Dec 2025)
-- 💼 **Software Engineer @ Saayam** · previously **Ramco Systems** (aircraft maintenance / MRO backend)
-- ⚙️ **Python · FastAPI · Kafka · AWS** microservices, plus **.NET & SQL Server** at enterprise scale
-- 🤖 **RAG & LLM tooling** — multi-tenant knowledge platforms, grading automation, live AWS demos
+- 💼 **Software Engineer @ Wells Fargo** · previously **Ramco Systems** · Graduate TA (Database Systems) at Florida Tech
+- ⚙️ **Modern C++ · Python · PostgreSQL** — concurrency, query optimization, and distributed backends
+- 🗄️ Strong foundation in **database internals** — storage engines, WAL, indexing, replication & consensus
 
 ---
 
@@ -44,7 +47,7 @@ focused on reliability, performance, and clean API design.
 
 | Project | Stack | Links |
 |---------|-------|-------|
-| **Enterprise Knowledge Assistant** | FastAPI, PostgreSQL, Redis, RAG, React | [Live Demo](http://ec2-3-141-104-224.us-east-2.compute.amazonaws.com/login) · [GitHub](https://github.com/Uday-Polineni/Multi-Tenant-Enterprise-Knowledge-Platform-RAG-) |
+| **Distributed Enterprise Knowledge Platform** | Python, FastAPI, PostgreSQL, Redis, RAG | [Live Demo](http://ec2-3-141-104-224.us-east-2.compute.amazonaws.com/login) · [GitHub](https://github.com/Uday-Polineni/Multi-Tenant-Enterprise-Knowledge-Platform-RAG-) |
 | **Scalable URL Shortener** | Java, Spring Boot, PostgreSQL, Redis, Docker | [Live Demo](http://ec2-52-15-177-183.us-east-2.compute.amazonaws.com/login) · [GitHub](https://github.com/Uday-Polineni/scalable-url-shortener) |
 | **Stock Market Kafka Pipeline** | Python, Kafka | [GitHub](https://github.com/Uday-Polineni/Stock_Market_Kafka_Project) |
 
@@ -54,38 +57,37 @@ focused on reliability, performance, and clean API design.
 
 ### 👨‍💻 Programming Languages
 <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32"/> C++ &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32"/> Python &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32"/> Java &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="32"/> C# &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32"/> JavaScript
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32"/> JavaScript &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32"/> Java
 </p>
 
-### ⚙️ Backend & Frameworks
+### ⚙️ Systems & Backend
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="32"/> FastAPI &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="32"/> Spring Boot &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="32"/> .NET &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="32"/> Apache Kafka
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="32"/> Apache Kafka &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="32"/> Linux &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width="32"/> CMake
 </p>
 
-### 🗄️ Databases
+### 🗄️ Databases & Storage
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32"/> PostgreSQL &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="32"/> SQL Server &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="32"/> Redis
 </p>
 
-### ☁️ Cloud, Frontend & DevOps
+### ☁️ Cloud & DevOps
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="32"/> AWS &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32"/> React &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32"/> Docker &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="32"/> Jenkins &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32"/> GitHub Actions &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32"/> Git
 </p>
 
-### 🤖 AI & Concepts
-**RAG** · **LLM APIs** · **pytest** · Alembic · Flyway · REST APIs · Microservices · System Design
+### 🧠 Concepts
+**Multithreading** · **Concurrent Programming** · **Storage Engines** · **WAL** · **Query Optimization** · **Indexing** · **Distributed Systems** · **Event-Driven Architecture** · **Microservices** · **RAG**
 
 ---
 
@@ -136,6 +138,7 @@ focused on reliability, performance, and clean API design.
 Open to collaboration, feedback, and opportunities.
 
 📧 **udaypolinenik@gmail.com**  
-🔗 **LinkedIn:** https://www.linkedin.com/in/uday-polineni/
+🔗 **LinkedIn:** https://www.linkedin.com/in/uday-polineni/  
+🌐 **Portfolio:** https://uday-polineni-portfolio.vercel.app/
 
 ---
