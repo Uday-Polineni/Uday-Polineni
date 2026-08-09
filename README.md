@@ -34,7 +34,7 @@ focused on reliability, concurrency, and production observability.
 ## 🚀 About Me
 
 - 🎓 **M.S. Computer Science**, Florida Institute of Technology · GPA **3.7/4.0** (Dec 2025)
-- 💼 **Software Engineer @ Wells Fargo** · previously **Ramco Systems** · Graduate TA (Database Systems) at Florida Tech
+- 💼 **Software Engineer @ Saayam** · previously **Ramco Systems** · Graduate TA (Database Systems) at Florida Tech
 - ⚙️ **Modern C++ · Python · PostgreSQL** — concurrency, query optimization, and distributed backends
 - 🗄️ Strong foundation in **database internals** — storage engines, WAL, indexing, replication & consensus
 
