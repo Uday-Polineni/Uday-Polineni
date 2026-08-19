@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 👋 Hi, I’m **Uday Kiran Polineni**
+# 👋 Hi, I’m **Uday Polineni**
 ### Software Engineer · Python · C++ · Distributed Systems & Database Internals
 
 I build high-performance backend systems and storage-aware services  
